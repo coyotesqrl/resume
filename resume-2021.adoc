@@ -1,0 +1,259 @@
+=== Richard A. Porter
+[.text-right]
+3054 E. Captain Dreyfus Ave. +
+Phoenix, AZ 85032 +
+phone: 916.813.9000 +
+GitHub: https://github.com/coyotesqrl +
+email: coyotesqrl@gmail.com
+
+==== OVERVIEW
+I have 25 years experience as a software engineer, with most of my focus on backend development in Java, Clojure, and other JVM languages. Having worked in a variety of settings — from two-man startup to larger, established multinational corporations — I have been fortunate to use a wide array of technologies and to interact with a wide spectrum of personalities.
+
+Although I am primarily a heads-down engineer, I have much experience working on all aspects of successful systems: requirements gathering and business analysis; recruiting engineers and building teams; and the design and implementation of all layers. Comfortable wearing many hats, I am most useful when my responsibilities are broad.
+
+In addition to my skills as an analyst and engineer, I have also spent much of my career mentoring and leading teams of engineers. My ability to communicate complex ideas to others is quite useful in this regard, as it is when dealing with business units and customers.
+
+==== EDUCATION
+Western Connecticut State University, Danbury CT +
+BA in Computer Science, December 1994
+
+==== SKILLS
+Languages: Clojure, Java, Kotlin, Groovy, Javascript +
+Enterprise Platforms: Kafka, Tomcat, OSGi, JBoss, WebLogic +
+Databases: PostgreSQL, Crux, Oracle, MySQL, SQLServer +
+Operating Systems: OS X, Linux, Windows +
+Miscellaneous: CI/CD (Jenkins/TravisCI/BuddyCI), Testing frameworks, Lucene, XML/XSL +
+
+==== EXPERIENCE
+[cols="<,^,>"]
+[frame=ends, grid=none]
+|===
+|Jan 2021-Present
+|*RIDE HEALTH*, New York NY
+|Software Engineer
+|===
+Ride Health is in the business of brokering non-emergency medical transport for health care organizations, insurance companies, and similar customers. I was brought on to develop greenfield Clojure services for us to use in order to slowly surround and strangle parts of a legacy Elixir application that was not designed to scale nor has proven amenable to refactoring and refinement. In my short time here, I have completed a service that finds fleets that match a patient’s ride request, based on price, type of vehicle, geographic constraints, and other criteria. I have also worked with some of our junior engineers to help with their projects. I will next be starting on a data warehouse of sorts in order to get us off of BigQuery and into a more purpose-built system for BI.
+
+[cols="<,^,>"]
+[frame=ends, grid=none]
+|===
+|May 2015-December 2020
+|*CONNEXTA*, Phoenix, AZ
+|Distinguished Engineer
+|===
+While at Connexta, I led teams of four to six engineers, being responsible for their growth and development and for ensuring that the work we collaborated on was correct, complete, and timely. I was a key driver in improving our recruiting and interview process, and worked to improve software development processes (in particular code review) throughout the company. I worked closely with our security architect to improve our security infrastructure, and developed and maintained highly concurrent code for our customers.
+
+[cols="<,^,>"]
+[frame=ends, grid=none]
+|===
+|September 2013-May 2015
+|*GLYNLYON*, Chandler, AZ
+|Lead Java Developer
+|===
+Glynlyon is a leader in software for the home-schooling and traditional school markets. It is a mixed-language shop, but the flagship product, Odysseyware, is a Groovy/Grails application. I worked on the SOA endpoints, attempting to normalize and formalize the way services were presented to the customers.
+
+In addition, I led the move from SVN to Git, mentored junior engineers, participated in code and architecture reviews, and played a key role in recruiting new developers.
+
+[cols="<,^,>"]
+[frame=ends, grid=none]
+|===
+|July 2012-September 2013
+|*BILLFIRE*, Scottsdale, AZ
+|Director of Development
+|===
+As a lead of a very small engineering team, I was responsible for apportioning work, estimating development efforts, analyzing libraries and tools for their utility, and architecting and implementing solutions.
+
+Most of the development was done in Java using the Guice framework; we primarily interacted with our PostgreSQL and MySQL databases through OpenJPA. We also implemented a small Clojure library for some of the more complex data extraction and analysis processes.
+
+[cols="<,^,>"]
+[frame=ends, grid=none]
+|===
+|October 2008-July 2012
+|*FOREVER LIVING PRODUCTS*, Scottsdale, AZ
+|Web Development Manager/Architect
+|===
+I led a team of six Java engineers on a suite of internal and customer-facing products. Those included an updated ecommerce site, a back-office CRM/order application, and a variety of internally oriented applications.
+
+Prior to this role, I served as the senior engineer on the team during which tenure I developed a content management system tuned to the needs as a multi-national, multi-lingual ecommerce site complete with light-weight workflow and intelligent caching, a geocode-based search mechanism for customers, a full calendaring application, and a variety of improvements to the codebase.
+
+[cols="<,^,>"]
+[frame=ends, grid=none]
+|===
+|June 2007-October 2008
+|*EMPOWHER*, Scottsdale, AZ
+|Senior Software Engineer
+|===
+At EmpowHer, I developed a Web 2.0 Portal in a LAMP system using Drupal and with backend services running on a Java/Tomcat system. My focus was primarily on the Java services layer, the design and development of the MySQL database, and a Lucene-based text searching engine.
+
+[cols="<,^,>"]
+[frame=ends, grid=none]
+|===
+|May 2005-June 2007
+|*FOREVER LIVING PRODUCTS*, Scottsdale, AZ
+|Senior Software Engineer
+|===
+I worked on a next-generation Ecommerce solution, built from the ground up, to consolidate the web presence of the 50+ countries in which FLP operates. In two years time, three of us designed, implemented, and launched a scalable, robust, modular, and internationalized solution.
+
+Some of my specific contributions to the Ecommerce system were its RDBMS design, the JDBC interaction layer atop that, workflow and checkpointing systems, and the full member, catalog, and order APIs.
+
+I also implemented a site-wide LDAP-based directory of persons and assets.
+
+[cols="<,^,>"]
+[frame=ends, grid=none]
+|===
+|September 2004-April 2005
+|*SOFTWARE ARCHITECTS*, Phoenix, AZ
+|Software Engineer
+|===
+Software Architects brought me on as a contractor for its largest project in Phoenix. On this interactive web application, I spent much of my time working with the Communique content management system that was the project's core. I developed content, application code, and workflows to run within the server, and in the process learned the strengths and pitfalls of the platform.
+
+With a large, unbalanced team consisting of only a few senior engineers and many juniors, I spent much of my time mentoring, reviewing code, and managing development efforts. In addition, I was instrumental in interviewing candidates to fill out the top end of the team.
+
+[cols="<,^,>"]
+[frame=ends, grid=none]
+|===
+|September 2003-June 2004
+|*CALIFORNIA ISO*, Folsom, CA
+|Software Engineer
+|===
+I worked on several projects while at the ISO. Their application server standard is JBoss, and I wrote several applications with heavy emphasis on JDBC, EJB, and WebService components. WebServices were exposed both manually and through JBoss's integration with Axis.
+
+Hired for my ability to quickly ramp up on a variety of material and rapidly absorb business requirements, I provided my expertise to several projects, acting as the principal engineer on one.
+
+[cols="<,^,>"]
+[frame=ends, grid=none]
+|===
+|May 2003-June 2003
+|*JEL PRODUCTIONS*, Sacramento, CA
+|Senior Software Engineer
+|===
+During this short-term contract, I worked with the Jakarta Struts framework, Castor JDO, JDBC, and Servlets/JSP to deliver a custom n-tier web application to one of their clients.
+
+[cols="<,^,>"]
+[frame=ends, grid=none]
+|===
+|February 2003
+|*JEL PRODUCTIONS*, Sacramento, CA
+|Senior Software Engineer
+|===
+During this short stint with Jel, I worked with Servlets/JSP and JDBC to deliver a custom n-tier web application to one of their clients.
+
+[cols="<,^,>"]
+[frame=ends, grid=none]
+|===
+|December 2002-January 2003
+|*DORADO SOFTWARE*, Folsom, CA
+|Consulting Engineer
+|===
+Brought back on a short-term contract, my responsibilities during this time were quite simple: port Dorado's core product — and the applications built upon it — from WebLogic to JBoss. During this tenure, I immersed myself in JBoss's modular, JMX-based architecture and its classloader architecture. I replaced many of the existing WebLogic startup classes with JMX MBeans, swapped out Dorado's custom classloader architecture with a new, simpler structure, plugged in a third-party JMS server, and completely restructured the build and deployment environments to improve engineering processes.
+
+[cols="<,^,>"]
+[frame=ends, grid=none]
+|===
+|September 2002-November 2002
+|*JEL PRODUCTIONS*, Sacramento, CA
+|Senior Software Engineer
+|===
+During this short-term contract I worked extensively with two technologies I had not used for several years prior, Servlets/JSP and JDBC, to deliver a custom n-tier web application to one of their clients. In addition, I built a light-weight JMS service to centralize and simplify the creation and use of JMS Topics within their application server framework.
+
+[cols="<,^,>"]
+[frame=ends, grid=none]
+|===
+|June 1999-August 2002
+|*DORADO SOFTWARE*, Folsom, CA
+|Principal Engineer
+|===
+Over my three years at Dorado Software, I worked mostly on their core product, Oware, an Enterprise development and deployment platform for distributed systems. Built entirely in Java, Oware provided a development-time IDE that simplified the creation of EJB-based solutions by layering a rule-based system on top of EJB semantics. It also served as the deployment platform on which these solutions run. Fully clusterable, with distributed proxies, it wass ideally suited for a wide variety of enterprise-class solutions.
+
+Working closely with the Chief Architect, I ranged over the entire codebase, but my primary responsibilities fell within three areas:
+
+1. Until the formation of a dedicated database team, I had principal responsibility for the business object layer. Oware provided a technology-independent facade to underlying storage technologies. At the time I left, Oware supported the Versant Object Database, Oracle, and SQLServer. Initially, Dorado shipped and supported only Versant, but we hid its semantics behind the facade in order to provide greater flexibility for future change. I managed and expanded this API until the database team began building the SQL implementation for Oracle. Additionally, I designed and built the transactional semantics for the facade.
+2. As Dorado's application server expert, I was instrumental in all efforts to incorporate the essential elements of J2EE into the product. Central to the Oware architecture was its Rule Engine, and I played a major role in its design and implementation.
+3. As Dorado's classloader expert, I spent a good portion of my time maintaining their existing classloaders. In the process, I determined many of the subtle problems inherent in the existing architecture and designed a replacement from the ground up. In that design, there was only one, very simple classloader that defered to an extensible list of finders. This design proved to be far more modular and easily enhanced. Both simple file-based finders and complex remote finders were easily plugged in.
+
+In addition to these primary responsibilities, I designed and led the implementation of their first CORBA integration effort, was one of the driving forces behind improving the development process, mentored many junior and mid-level engineers, and was instrumental in improving the recruitment and technical screening processes.
+
+[cols="<,^,>"]
+[frame=ends, grid=none]
+|===
+|February 1999-June 1999
+|*CITIZEN1 SOFTWARE*, San Francisco, CA
+|Senior Engineer
+|===
+Citizen1 provides customized information searching, tracking, and management for several knowledge domains, notably the healthcare industry. I was brought on to help "webify" the interface and re-architect the information gathering and classification system.
+
+While knowledge management and case-based reasoning are not specialties of mine, the CTO and I had worked together before on similar problems and had some insight; additionally, the distribution problem was similar to many others I had tackled.
+
+[cols="<,^,>"]
+[frame=ends, grid=none]
+|===
+|August 1998-February 1999
+|*SQUIRREL WORKS*, San Mateo, CA
+|Senior Engineer
+|===
+Although hired for my experience with distributed systems and server-side Java, startup realities made me the de facto Palm programming expert. Forced to reacquaint myself with C, I began to appreciate Java even more; however, the challenges of writing a user-friendly client on so simple an interface were intriguing. Additional problems of dealing with concurrency between disconnected clients and servers and networking issues involved in synchronizing them were quite interesting.
+
+I built a custom communications protocol on top of HTTP, as WAP was only a draft specification at that time, and wrote the server-side components of the communication channel. Going this low-level was not one of my favorite endeavors, but was nonetheless educational.
+
+Unfortunately, we entered the wireless realm too early to attract enough interest from the venture community. Our early demise taught me two valuable lessons: the best technology does not always win, and timing is a crucial and oft-overlooked element to success.
+
+[cols="<,^,>"]
+[frame=ends, grid=none]
+|===
+|June 1998-August 1998
+|*INFERENCE CORPORATION*, Novato, CA
+|Software Engineer
+|===
+I led the architecture design for their next generation server. Built in 100% Java on top of a Java Application Server with an XML interface to the world, it promised to be an exciting product and project. Unfortunately, a series of management upheavals and priority shifts reduced my comfort level to nil.
+
+[cols="<,^,>"]
+[frame=ends, grid=none]
+|===
+|August 1997-June 1998
+|*WEBLOGIC*, San Francisco, CA
+|Staff Engineer
+|===
+My primary responsibility at WebLogic was to provide high-level tech support to our customers. While in many ways this job was quite a step down for me, the opportunity to work for such an exciting startup at an early stage, combined with promises of rapid advancement, convinced me to take the chance.
+
+I did get to spend a solid third of my time writing code — tutorials, utilities, QA tests, and parts of the JNDI implementation of the application server — but our ability to hire new, capable software engineers to take our places in support grew ever more difficult and I eventually had to weigh the advantages of staying against the risks to my future employability. I often regret my final decision, but at least came away from WebLogic with a very deep, detailed understanding of application servers, distributed systems, and Java in general.
+
+[cols="<,^,>"]
+[frame=ends, grid=none]
+|===
+|May 1997-August 1997
+|*EXAMEN*, Sacramento, CA
+|Staff Engineer
+|===
+I was originally hired to a team building an Enterprise Java application and was quickly promoted to be the project's chief architect. Before leaving, I finished the design specifications, marrying business requirements with the needs of the various end users.
+
+[cols="<,^,>"]
+[frame=ends, grid=none]
+|===
+|May 1996- May 1997
+|Independent Consultant, Sacramento, CA
+|Software Consultant
+|===
+Working on a long-term contract, I was tasked to build a small-scale, commercial page-design application in Delphi, Java, and C++. Unfortunately, funds ran out and the product was never completed.
+
+[cols="<,^,>"]
+[frame=ends, grid=none]
+|===
+|December 1995-May 1996
+|*PLAY, INC*, Rancho Cordova, CA
+|Webmaster/Systems Administrator
+|===
+As the first job I took in California, this was more of an interim position, but it did offer me an opportunity to hone my HTML skills, and begin my exploration of Java, in alpha that December.
+
+[cols="<,^,>"]
+[frame=ends, grid=none]
+|===
+|April 1994-November 1995
+|*HARMON PUBLISHING*, Danbury, CT
+|Programmer/Systems Administrator
+|===
+At Harmon, I programmed database applications using Clipper and C for our real estate publishing business. This was a perfect first software job, for as I moved up through the company, I became intimately aware of each step in the process. I gained an appreciation for user design and usage issues, and saw first hand the results of design decisions. I was able to re-engineer our core software completely while I was there, dropping the customization time from weeks to a matter of days.
+
+==== REFERENCES
+Available upon request.
+
+

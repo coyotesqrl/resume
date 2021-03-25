@@ -1,0 +1,32 @@
+extends: default
+
+font:
+  catalog:
+    Lorin:
+      normal: ../fonts/Lorin-Regular.ttf
+      bold: ../fonts/Lorin-Bold.ttf
+      bold_italic: ../fonts/Lorin-ExtraBold.ttf
+    Noto Serif:
+      normal: GEM_FONTS_DIR/notoserif-regular-subset.ttf
+      bold: GEM_FONTS_DIR/notoserif-bold-subset.ttf
+      italic: GEM_FONTS_DIR/notoserif-italic-subset.ttf
+      bold_italic: GEM_FONTS_DIR/notoserif-bold_italic-subset.ttf
+    # M+ 1mn supports ASCII and the circled numbers used for conums
+    M+ 1mn:
+      normal: GEM_FONTS_DIR/mplus1mn-regular-subset.ttf
+      bold: GEM_FONTS_DIR/mplus1mn-bold-subset.ttf
+      italic: GEM_FONTS_DIR/mplus1mn-italic-subset.ttf
+      bold_italic: GEM_FONTS_DIR/mplus1mn-bold_italic-subset.ttf
+
+base:
+  align: left
+  font_size: 9.5
+
+table:
+  font_family: Lorin
+  border_color: #A05725
+
+heading:
+  h3_align: right
+  font_family: Lorin
+  font_color: #A05725
