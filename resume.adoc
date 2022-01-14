@@ -7,7 +7,7 @@ GitHub: https://github.com/coyotesqrl +
 email: coyotesqrl@gmail.com
 
 ==== OVERVIEW
-I have 25 years of experience as a software engineer, with most of my focus on backend development in Java, Clojure,
+I have over 25 years of experience as a software engineer, with most of my focus on backend development in Java, Clojure,
 and other JVM languages. Having worked in a variety of settings — from a two-man startup to larger, established,
 multinational corporations — I have been fortunate to use a wide array of technologies and to interact with a wide
 spectrum of personalities.
@@ -27,7 +27,7 @@ BA in Computer Science, December 1994
 ==== SKILLS
 Languages: Clojure, Java, Kotlin, Groovy, Javascript +
 Enterprise Platforms: Kafka, Tomcat, OSGi, JBoss, WebLogic +
-Databases: PostgreSQL, Crux, Oracle, MySQL, SQLServer +
+Databases: PostgreSQL, XTDB, Oracle, MySQL, SQLServer +
 Operating Systems: OS X, Linux, Windows +
 Miscellaneous: Docker, CI/CD (Jenkins/TravisCI/BuddyCI), Testing frameworks, Lucene, XML/XSL
 
@@ -35,20 +35,30 @@ Miscellaneous: Docker, CI/CD (Jenkins/TravisCI/BuddyCI), Testing frameworks, Luc
 [cols="<,^,>"]
 [frame=ends, grid=none]
 |===
-|January 2021-Present
+|April 2021-Present
+|*GUARANTEED RATE* +
+Chicago, IL
+|Senior Software Engineer
+|===
+While at GR, I have worked on several Clojure micro-services, building two from the ground up and pushing them
+through to deployment in production. I have helped improved my team's build and deployment process, and by example have
+fostered a culture where clear and well-maintained documentation is a release requirement. I worked closely with my team's
+lead engineer to improve our logging and telemetry, and have refactored and extracted several libraries that have
+reduced the size and complexity of all our micro-services.
+
+<<<
+
+[cols="<,^,>"]
+[frame=ends, grid=none]
+|===
+|January 2021-April 2021
 |*RIDE HEALTH* +
 New York, NY
 |Software Engineer
 |===
-Ride Health is in the business of brokering non-emergency medical transport for health care organizations, insurance
-companies, and similar customers. I was brought on to develop greenfield Clojure services to slowly surround and
-strangle parts of a legacy Elixir application that was neither designed to scale nor has proven amenable to refactoring
-and refinement. In my short time here, I have completed a service that finds fleets that match a patient’s ride request,
-based on price, type of vehicle, geographic constraints, and other criteria. I have also helped the junior engineers
-with their projects. Next, I will be starting on a data warehouse of sorts to transition off BigQuery and into a more
-purpose-built system for BI.
-
-<<<
+At Ride Health, I took ownership of and completed a Clojure micro-service that finds fleets matching a patient’s
+ride request, based on price, type of vehicle, geographic constraints, and other criteria. Using Crux (since rebranded
+as XTDB) for its bi-temporal support and Kafka for enterprise communication, the service was performant and reliable.
 
 [cols="<,^,>"]
 [frame=ends, grid=none]
@@ -379,5 +389,3 @@ time from weeks to a matter of days.
 
 ==== REFERENCES
 Available upon request.
-
-
