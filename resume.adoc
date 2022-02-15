@@ -35,16 +35,26 @@ Miscellaneous: Docker, CI/CD (Jenkins/TravisCI/BuddyCI), Testing frameworks, Luc
 [cols="<,^,>"]
 [frame=ends, grid=none]
 |===
-|April 2021-Present
+|February 2022-Present
+|*DIVIDEND FINANCE* +
+San Francisco, CA
+|Senior Software Engineer
+|===
+I have recently begun working on the backend services for DF, developing in Clojure.
+
+[cols="<,^,>"]
+[frame=ends, grid=none]
+|===
+|April 2021-February 2022
 |*GUARANTEED RATE* +
 Chicago, IL
 |Senior Software Engineer
 |===
-While at GR, I have worked on several Clojure micro-services, building two from the ground up and pushing them
-through to deployment in production. I have helped improved my team's build and deployment process, and by example have
-fostered a culture where clear and well-maintained documentation is a release requirement. I worked closely with my team's
-lead engineer to improve our logging and telemetry, and have refactored and extracted several libraries that have
-reduced the size and complexity of all our micro-services.
+While at GR, I worked on several Clojure micro-services, building two from the ground up and pushing them
+through to deployment in production. I helped improve my team's build and deployment process, and by example
+fostered a culture where clear and well-maintained documentation was a release requirement. I worked closely with my team's
+lead engineer to improve logging and telemetry, and refactored and extracted several libraries that reduced the size and
+complexity of all the team's micro-services.
 
 <<<
 
