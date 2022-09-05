@@ -35,12 +35,22 @@ Miscellaneous: Docker, CI/CD (Jenkins/TravisCI/BuddyCI), Testing frameworks, Luc
 [cols="<,^,>"]
 [frame=ends, grid=none]
 |===
-|February 2022-Present
+|August 2022-Present
+|*YUMMLY* +
+San Carlos, CA
+|Principal Software Engineer, Platform Team
+|===
+At Yummly, my primary responsibilities are backend development using Clojure.
+
+[cols="<,^,>"]
+[frame=ends, grid=none]
+|===
+|February 2022-August 2022
 |*DIVIDEND FINANCE* +
 San Francisco, CA
 |Senior Software Engineer
 |===
-At DF, I split my time about 70-30 between backend development of RESTful services in Clojure - where I use PostgreSQL (with HoneySQL) and Salesforce datastores along with RabbitMQ - and Clojurescript development with re-frame.
+At DF, I split my time about 70-30 between backend development of RESTful services in Clojure - where I used PostgreSQL (with HoneySQL) and Salesforce datastores along with RabbitMQ - and Clojurescript development with re-frame.
 
 [cols="<,^,>"]
 [frame=ends, grid=none]
