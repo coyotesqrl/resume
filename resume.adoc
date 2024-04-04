@@ -4,16 +4,16 @@
 Phoenix, AZ 85032 +
 phone: 916.813.9000 +
 GitHub: https://github.com/coyotesqrl +
+LinkedIn: https://linkedin.com/in/coyotesqrl +
 email: coyotesqrl@gmail.com
 
 ==== OVERVIEW
-I have over 25 years of experience as a software engineer, with most of my focus on backend development in Java, Clojure,
-and other JVM languages. Having worked in a variety of settings — from a two-man startup to larger, established,
+In my 30 years as a software engineer, lead, and architect, I have put most of my focus on backend development in Clojure, Java, and other JVM languages. Having worked in a variety of settings — from a two-man startup to larger, established,
 multinational corporations — I have been fortunate to use a wide array of technologies and to interact with a wide
 spectrum of personalities.
 
-Although I am primarily a heads-down engineer, I have significant experience working on all aspects of successful
-systems: requirements gathering and business analysis; recruiting engineers and building teams; and the design and
+While I am an extremely capable individual contributor, I have significant experience working on all aspects of successful
+systems: requirements gathering and business analysis; recruiting, building, and managing teams; and the design and
 implementation of all layers. Comfortable wearing many hats, I am most useful when my responsibilities are broad.
 
 In addition to my skills as an analyst and engineer, I have also spent much of my career mentoring and leading teams of
@@ -25,22 +25,22 @@ Western Connecticut State University, Danbury CT +
 BA in Computer Science, December 1994
 
 ==== SKILLS
-Languages: Clojure, Java, Kotlin, Groovy, Javascript +
+Languages: Clojure, Kotlin, Java, Groovy, Javascript +
 Enterprise Platforms: Kafka, Tomcat, OSGi, JBoss, WebLogic +
-Databases: PostgreSQL, XTDB, Oracle, MySQL, SQLServer +
+Databases: PostgreSQL, XTDB, Oracle, MySQL +
 Operating Systems: OS X, Linux, Windows +
-Miscellaneous: Docker, CI/CD (Jenkins/TravisCI/BuddyCI), Testing frameworks, Lucene, XML/XSL
+Miscellaneous: GraphQL, Docker, Lucene, CI/CD, Unit Testing, XML/XSL
 
 ==== EXPERIENCE
 [cols="<,^,>"]
 [frame=ends, grid=none]
 |===
-|August 2022-Present
+|August 2022-April 2024
 |*YUMMLY* +
 San Carlos, CA
 |Principal Software Engineer, Platform Team
 |===
-At Yummly, my primary responsibilities are backend development using Clojure.
+At Yummly, I worked on our legacy Clojure monolith as well as several state of the art Clojure microservices. I implemented and supported DI layers - Component and Integrant - implemented a GraphQL service using Lacinia, and interoperated with both PostgreSQL and XTDB for data storage. Our deployment environment was AWS, and I worked extensively with many of the tools in that suite.
 
 [cols="<,^,>"]
 [frame=ends, grid=none]
@@ -65,8 +65,6 @@ through to deployment in production. I helped improve my team's build and deploy
 fostered a culture where clear and well-maintained documentation was a release requirement. I worked closely with my team's
 lead engineer to improve logging and telemetry, and refactored and extracted several libraries that reduced the size and
 complexity of all the team's micro-services.
-
-<<<
 
 [cols="<,^,>"]
 [frame=ends, grid=none]
@@ -151,8 +149,6 @@ Scottsdale, AZ
 At EmpowHer, I developed a Web 2.0 Portal in a LAMP system using Drupal and with backend services running on a
 Java/Tomcat system. My focus was primarily on the Java services layer, the design and development of the MySQL
 database, and a Lucene-based text searching engine.
-
-<<<
 
 [cols="<,^,>"]
 [frame=ends, grid=none]
@@ -265,17 +261,13 @@ Over my three years at Dorado Software, I worked mostly on their core product, O
 and deployment platform for distributed systems. Built entirely in Java, Oware provided a development-time IDE
 that simplified the creation of EJB-based solutions by layering a rule-based system on top of EJB semantics. It
 also served as the deployment platform on which these solutions run. Fully clusterable, with distributed proxies,
-it wass ideally suited for a wide variety of enterprise-class solutions.
+it was ideally suited for a wide variety of enterprise-class solutions.
 
 Working closely with the Chief Architect, I worked over the entire codebase, but my primary responsibilities fell
 within three areas:
 
 1. Until the formation of a dedicated database team, I had principal responsibility for the business object layer.
-Oware provided a technology-independent facade to underlying storage technologies. At the time I left, Oware
-supported the Versant Object Database, Oracle, and SQLServer. Initially, Dorado shipped and supported only Versant,
-but we hid its semantics behind the facade in order to provide greater flexibility for future change. I managed
-and expanded this API until the database team began building the SQL implementation for Oracle. Additionally, I
-designed and built the transactional semantics for the facade.
+Oware provided a technology-independent facade to underlying storage technologies, supporting the Versant Object Database, Oracle, and SQLServer.
 2. As Dorado's application server expert, I was instrumental in all efforts to incorporate the essential elements of
 J2EE into the product. Central to the Oware architecture was its Rule Engine, and I played a major role in its design
 and implementation.
@@ -304,8 +296,6 @@ gathering and classification system.
 While knowledge management and case-based reasoning are not specialties of mine, the CTO and I had worked
 together before on similar problems and had some insight; additionally, the distribution problem was similar
 to many others I had tackled.
-
-<<<
 
 [cols="<,^,>"]
 [frame=ends, grid=none]
