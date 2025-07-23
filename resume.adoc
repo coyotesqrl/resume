@@ -35,6 +35,16 @@ Miscellaneous: GraphQL, Docker, Lucene, CI/CD, Unit Testing, XML/XSL
 [cols="<,^,>"]
 [frame=ends, grid=none]
 |===
+|August July 2024-Present
+|*RENT./Redfin* +
+Atlanta, GA/Seattle, WA
+|Senior Developer, Services Team
+|===
+At Rent./Redfin, I have worked extensively with Kafka and Opensearch to support our rentals business. All of my development work has been in Clojure, including the translation of a large, legacy Perl batch process to a modern Clojure application within a larger Polylith repository.
+
+[cols="<,^,>"]
+[frame=ends, grid=none]
+|===
 |August 2022-April 2024
 |*YUMMLY* +
 San Carlos, CA
@@ -122,6 +132,7 @@ Most of the development was done in Java using the Guice framework; we primarily
 MySQL databases through OpenJPA. We also implemented a small Clojure library for some of the more complex data
 extraction and analysis processes.
 
+<<<
 [cols="<,^,>"]
 [frame=ends, grid=none]
 |===
@@ -199,6 +210,7 @@ and through JBoss's integration with Axis.
 Hired for my ability to quickly ramp up on a variety of material and rapidly absorb business requirements, I
 provided my expertise to several projects, acting as the principal engineer on one.
 
+<<<
 [cols="<,^,>"]
 [frame=ends, grid=none]
 |===
@@ -349,6 +361,7 @@ places in support grew ever more difficult and I eventually had to weigh the adv
 risks to my future employability. I often regret my final decision, but at least came away from WebLogic with a
 very deep, detailed understanding of application servers, distributed systems, and Java in general.
 
+<<<
 [cols="<,^,>"]
 [frame=ends, grid=none]
 |===
